@@ -1,16 +1,19 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6a5027&height=300&section=header&text=GeonWoo%20Kim&fontSize=90)
 
-<!--
-**gwkim22/gwkim22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <h3> Hi there. I'm GeonWoo 👋</h3>
 
-Here are some ideas to get you started:
+  <h3> 🔥 Tech Stack 🔥 </h3>
+  
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-171515.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+**<summary>발자취</summary>**
+
+* ⛺ 네이버 부스트캠프 Ai tech 4기 (NLP), 2022
+  
+</details>
