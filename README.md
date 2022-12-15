@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6a5027&height=300&section=header&text=GeonWoo%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d1c7b0&height=300&section=header&text=GeonWoo%20Kim&fontSize=90)
 
 <div align="center">
   
